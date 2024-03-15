@@ -1,0 +1,66 @@
+﻿.adressbar {
+    display: flex;
+    color: crimson;
+    gap: 20px;
+
+}
+.Maintitle {
+    color: crimson;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: black; 
+}
+
+.h1 {
+    color: forestgreen;
+    display: flex;
+    justify-content:center;
+}
+
+.green {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 500px));
+    grid-gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+    height: auto;
+}
+
+.smalltitle {
+    color: silver;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;    
+}
+
+.prize {
+    color: gold;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.webtwo {
+    background-color: black;
+    color: crimson;
+}
+
+.Navi {
+    color: greenyellow;
+}
+
+#coo {
+    border-style: double;
+    border-color: gold;
+}
+
+#coo2 {
+    color: gold;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
