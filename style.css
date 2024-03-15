@@ -1,4 +1,9 @@
-﻿
+﻿.adressbar {
+    display: flex;
+    color: crimson;
+    gap: 20px;
+
+}
 .Maintitle {
     color: crimson;
     display: flex;
@@ -6,7 +11,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: black; 
 }
 
 .h1 {
@@ -37,6 +42,15 @@ body {
     display: flex;
     justify-content: center;
     margin-bottom: 5px;
+}
+
+.webtwo {
+    background-color: black;
+    color: crimson;
+}
+
+.Navi {
+    color: greenyellow;
 }
 
 #coo {
